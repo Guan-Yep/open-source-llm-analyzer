@@ -16,5 +16,8 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Competition / local-only docs
+竞赛提交文档.md
+
 # Zip artifacts
 *.zip
