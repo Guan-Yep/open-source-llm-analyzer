@@ -157,6 +157,10 @@ ai_analysis/
 
 欢迎提交 Issue 或 Pull Request。如果你觉得这个工具对你有帮助，不妨给个 ⭐️ Star！
 
+## 🙏 致谢
+
+本项目基于 [@comeonzhj](https://github.com/comeonzhj) 的 howPrompt 改造而来。
+
 ## ⚖️ 免责声明
 
 本 Skill 提供的分析结果均基于自动化大模型能力，仅供参考和学习用途。对于分析结论的准确性不做保证，使用者需自行核实关键信息。
